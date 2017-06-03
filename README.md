@@ -2,8 +2,6 @@
 
 # docker-alpine-rubocop
 
-based on https://github.com/mhart/alpine-rubocop
-
 ```bash
 docker run -it --rm \
   -e USER_ID=`id -u` \
